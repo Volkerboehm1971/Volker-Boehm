@@ -9,6 +9,8 @@
 
 ## Skills
 - Coding
+- Java Script
+- CSS
 - Taking Pictures
 - Riding by board
 
